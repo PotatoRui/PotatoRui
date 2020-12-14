@@ -1,7 +1,9 @@
-### Hi there 👋
+![PotatoRui's github stats](https://github-readme-stats.vercel.app/api?username=PotatoRui&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PotatoRui&layout=compact&langs_count=12)
 
 <!--
-**PotatoRui/PotatoRui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**daishitie/daishitie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
