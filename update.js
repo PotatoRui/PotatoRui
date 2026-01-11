@@ -91,14 +91,14 @@ void async function main( ) {
     const base64 = new Buffer.from( output.join( "\n" ) ).toString( "base64" );
 
     const { data: { sha } } = await octokit.request( "GET /repos/{owner}/{repo}/contents/{path}", {
-        owner	: "Asgarrrr",
-        repo	: "Asgarrrr",
+        owner	: "PotatoRui",
+        repo	: "PotatoRui",
         path	: "README.md"
     });
 
     await octokit.request( "PUT /repos/{owner}/{repo}/contents/{path}", {
-        owner	: "Asgarrrr",
-        repo	: "Asgarrrr",
+        owner	: "PotatoRui",
+        repo	: "PotatoRui",
         path	: "README.md",
         message	: "update",
         content	: base64,
